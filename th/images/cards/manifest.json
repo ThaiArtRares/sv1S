@@ -1,0 +1,26 @@
+{
+  "setName": "Scarlet ex",
+  "setID": "sv1S",
+  "cards": [
+    {
+      "cardID": "089",
+      "cardName": "โดโดเกซัน",
+      "pokemonName": "Kingambit",
+      "pokedexNumber": 983,
+      "pokemonName_en": "Kingambit",
+      "cardIllustrator": "Shin Nagasawa",
+      "cardCameos": ["Pawniard", "Bisharp"],
+      "cardVariations": [{ "setID": "sv1S", "lang": "id", "cardID": "089" }]
+    },
+        {
+      "cardID": "090",
+      "cardName": "มุคคุรุ",
+      "pokemonName": "Starly",
+      "pokedexNumber": 396,
+      "pokemonName_en": "Starly",
+      "cardIllustrator": "saino misaki",
+      "cardCameos": [],
+      "cardVariations": []
+    }
+  ]
+}
