@@ -3,16 +3,17 @@
   "setID": "sv1S",
   "setReleaseDate": "2023-03-03",
   "cards": [
-    {
-      "cardID": "089",
-      "cardName": "Kingambit",
-      "pokemonName": "Kingambit",
-      "pokedexNumber": 983,
-      "pokemonName_en": "Kingambit",
-      "cardIllustrator": "Shin Nagasawa",
-      "cardCameos": ["Pawniard", "Bisharp"],
-      "cardVariations": [{ "setID": "sv1S", "lang": "th", "cardID": "089" }],
-      "ThaiArtRares": true
-    }
+    { "cardID": "079", "cardName": "Dolliv", "pokemonName_en": "Dolliv", "rarity": "AR", "pokedexNumber": 929, "cardIllustrator": "Oswaldo KATO" },
+    { "cardID": "080", "cardName": "Armarouge", "pokemonName_en": "Armarouge", "rarity": "AR", "pokedexNumber": 936, "cardIllustrator": "nagimiso" },
+    { "cardID": "081", "cardName": "Wiglett", "pokemonName_en": "Wiglett", "rarity": "AR", "pokedexNumber": 960, "cardIllustrator": "You Iribi" },
+    { "cardID": "082", "cardName": "Dondozo", "pokemonName_en": "Dondozo", "rarity": "AR", "pokedexNumber": 977, "cardIllustrator": "AKIRA EGAWA" },
+    { "cardID": "083", "cardName": "Ralts", "pokemonName_en": "Ralts", "rarity": "AR", "pokedexNumber": 280, "cardIllustrator": "Jiro Sasumo" },
+    { "cardID": "084", "cardName": "Kirlia", "pokemonName_en": "Kirlia", "rarity": "AR", "pokedexNumber": 281, "cardIllustrator": "Jiro Sasumo" },
+    { "cardID": "085", "cardName": "Fidough", "pokemonName_en": "Fidough", "rarity": "AR", "pokedexNumber": 926, "cardIllustrator": "Tika Matsuno" },
+    { "cardID": "086", "cardName": "Riolu", "pokemonName_en": "Riolu", "rarity": "AR", "pokedexNumber": 447, "cardIllustrator": "Nelnal" },
+    { "cardID": "087", "cardName": "Sandile", "pokemonName_en": "Sandile", "rarity": "AR", "pokedexNumber": 551, "cardIllustrator": "Nurikabe" },
+    { "cardID": "088", "cardName": "Klawf", "pokemonName_en": "Klawf", "rarity": "AR", "pokedexNumber": 950, "cardIllustrator": "Mina Nakai" },
+    { "cardID": "089", "cardName": "Kingambit", "pokemonName_en": "Kingambit", "rarity": "AR", "pokedexNumber": 983, "cardIllustrator": "Shin Nagasawa" },
+    { "cardID": "090", "cardName": "Starly", "pokemonName_en": "Starly", "rarity": "AR", "pokedexNumber": 396, "cardIllustrator": "saino misaki" }
   ]
 }
