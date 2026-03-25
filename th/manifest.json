@@ -1,7 +1,7 @@
 {
   "setName": "Scarlet ex",
   "setID": "sv1S",
-  "setReleaseDate": "2023-03-31",
+  "setReleaseDate": "2023-01-20",
   "cards": [
     {
       "cardID": "089",
@@ -11,9 +11,10 @@
       "pokemonName_en": "Kingambit",
       "cardIllustrator": "Shin Nagasawa",
       "cardCameos": ["Pawniard", "Bisharp"],
-      "cardVariations": [{ "setID": "sv1S", "lang": "id", "cardID": "089" }]
+      "cardVariations": [{ "setID": "sv1S", "lang": "id", "cardID": "089" }],
+      "ThaiArtRares": true
     },
-        {
+    {
       "cardID": "090",
       "cardName": "มุคคุรุ",
       "pokemonName": "Starly",
@@ -21,7 +22,8 @@
       "pokemonName_en": "Starly",
       "cardIllustrator": "saino misaki",
       "cardCameos": [],
-      "cardVariations": []
+      "cardVariations": [],
+      "ThaiArtRares": true
     }
   ]
 }
